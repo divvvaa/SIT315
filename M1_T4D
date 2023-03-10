@@ -9,8 +9,8 @@ const int pirPin = 3;
 const int pirPin2 = 4; 
 void setup()
 {
-//Kanika Kukreja
-//2110994766
+//divanshi
+//2110994806
 //Task M1_T4D
 //Here I used two motion sensors and 1 temperature sensor
 //Corresponding toggling led to one motion sensor and buzzer to the
